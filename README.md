@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [Language](#language)
   - [Working](#working)
-- [Methadology](#methadology)
+- [Methodology](#methodology)
   - [Programming Model](#programming-model)
   - [Classes](#classes)
   - [Functions](#functions)
@@ -34,7 +34,7 @@ This project is made in [C++] programming language.
 
 This project is made just for fun. The knowledge about the horescope(About Yourself, Fortunes, Lucky Numbers) is not aunthentic. I randomly took the data from the internet and just copy pasted it. Please donot take this personally.
 
-## Methadology
+## Methodology
 
 ### Programming Model
 
